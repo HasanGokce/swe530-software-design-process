@@ -4,7 +4,8 @@
 https://docs.google.com/document/d/1w4B08IiIjVeXNd545qPjnCte0B4CYUN-fI-x1gxcGdA/edit?usp=sharing
 
 ## Part 2 Use Cases
-Link...
+https://drive.google.com/file/d/1bGYyFElLXtzybzkIiP47wZT8BfP9Xtn6/view?usp=sharing
 
 ## Part 3 
 Functional viewpoint
+https://drive.google.com/file/d/1xJePJD-yfeCXgU58WkEwMz4ds2s4lVFM/view?usp=sharing
