@@ -18,4 +18,7 @@ https://drive.google.com/file/d/1xJePJD-yfeCXgU58WkEwMz4ds2s4lVFM/view?usp=shari
    - State diagrams
    - Sequence diagrams
    - Activity diagrams
-   - BPM (https://www.bpmnquickguide.com/)
+   - BPM 
+      - (https://www.bpmnquickguide.com/)
+      - https://camunda.com
+
