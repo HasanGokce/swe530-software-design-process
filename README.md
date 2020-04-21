@@ -9,6 +9,8 @@ https://drive.google.com/file/d/1bGYyFElLXtzybzkIiP47wZT8BfP9Xtn6/view?usp=shari
 ## Part 3 Functional viewpoint
 https://drive.google.com/file/d/1xJePJD-yfeCXgU58WkEwMz4ds2s4lVFM/view?usp=sharing
 
+## Resources
+  - http://www.cs.unibo.it/~cianca/wwwpages/ids/esempi/uml.pdf
 
 ## Topics
    - Requirements
