@@ -1,8 +1,8 @@
 # SWE530_Software_Design_Process
 
 ## Meeting Notes
-- [2020.5.18](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.05.18) (Agile)
-- [2020.5.11](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.05.18) (Agile)
+- [**2020.5.18**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.05.18) (Agile)
+- [**2020.5.04**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.05.18) (Agile)
 
 ## Part 1 Requirements Document
 https://docs.google.com/document/d/1w4B08IiIjVeXNd545qPjnCte0B4CYUN-fI-x1gxcGdA/edit?usp=sharing
