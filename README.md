@@ -1,6 +1,7 @@
 # SWE530_Software_Design_Process
 
 ## Meeting Notes
+- [**2020.06.01**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.06.01) (Design, Consistency)
 - [**2020.05.18**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.05.18) (Agile, Prototyping)
 - [**2020.05.04**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.05.04) (Design Patterns, Homework)
 
