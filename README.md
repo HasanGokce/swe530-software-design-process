@@ -1,18 +1,14 @@
 # SWE530_Software_Design_Process
 
+## Document
+Requirement document is on this [link](https://docs.google.com/document/d/1w4B08IiIjVeXNd545qPjnCte0B4CYUN-fI-x1gxcGdA/edit?usp=sharing).
+All design models have been presented on this [link](https://app.diagrams.net/#G1lSA8u8_Z3yjLp5fA2TU-Dd_FQjyFFHml). 
+
 ## Meeting Notes
 - [**2020.06.01**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.06.01) (Design, Consistency)
 - [**2020.05.18**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.05.18) (Agile, Prototyping)
 - [**2020.05.04**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.05.04) (Design Patterns, Homework)
 
-## Part 1 Requirements Document
-https://docs.google.com/document/d/1w4B08IiIjVeXNd545qPjnCte0B4CYUN-fI-x1gxcGdA/edit?usp=sharing
-
-## Part 2 Use Cases
-https://drive.google.com/file/d/1bGYyFElLXtzybzkIiP47wZT8BfP9Xtn6/view?usp=sharing
-
-## Part 3 Functional viewpoint
-https://drive.google.com/file/d/1xJePJD-yfeCXgU58WkEwMz4ds2s4lVFM/view?usp=sharing
 
 ## Resources
   - http://www.cs.unibo.it/~cianca/wwwpages/ids/esempi/uml.pdf
@@ -22,13 +18,16 @@ https://drive.google.com/file/d/1xJePJD-yfeCXgU58WkEwMz4ds2s4lVFM/view?usp=shari
    - Use cases
    - Functional wiewpoint
    - Class diagrams
-   - State diagrams
    - Sequence diagrams
+   - State diagrams
    - Activity diagrams
-   - BPM 
-      - https://www.bpmnquickguide.com/
-      - https://camunda.com
+   - BPMN 
    - Design Patterns
-      - https://sourcemaking.com/design_patterns
+      
+## Useful links
+ - https://yuml.me/ (design tool for use case, class diagram and activity diagram)
+ - https://www.bpmnquickguide.com/ (BPMN)
+ - https://camunda.com (BPMN)
+ - https://sourcemaking.com/design_patterns (Design Patterns)
 
 
