@@ -13,23 +13,23 @@
 
 
 ## Resources
-  - http://www.cs.unibo.it/~cianca/wwwpages/ids/esempi/uml.pdf
+ - http://www.cs.unibo.it/~cianca/wwwpages/ids/esempi/uml.pdf
 
 ## Topics
-   - Requirements
-   - Use cases
-   - Functional wiewpoint
-   - Class diagrams
-   - Sequence diagrams
-   - State diagrams
-   - Activity diagrams
-   - BPMN 
-   - Design Patterns
+- Requirements
+- Use cases
+- Functional wiewpoint
+- Class diagrams
+- Sequence diagrams
+- State diagrams
+- Activity diagrams
+- BPMN 
+- Design Patterns
       
 ## Useful links
- - https://yuml.me/ (design tool for use case, class diagram and activity diagram)
- - https://www.bpmnquickguide.com/ (BPMN)
- - https://camunda.com (BPMN)
- - https://sourcemaking.com/design_patterns (Design Patterns)
+- https://yuml.me/ (design tool for use case, class diagram and activity diagram)
+- https://www.bpmnquickguide.com/ (BPMN)
+- https://camunda.com (BPMN)
+- https://sourcemaking.com/design_patterns (Design Patterns)
 
 
