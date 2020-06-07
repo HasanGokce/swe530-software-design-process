@@ -1,8 +1,8 @@
 # SWE530_Software_Design_Process
 
 ## Document
-Requirement document is on this [link](https://docs.google.com/document/d/1w4B08IiIjVeXNd545qPjnCte0B4CYUN-fI-x1gxcGdA/edit?usp=sharing).
-All design models have been presented on this [link](https://app.diagrams.net/#G1lSA8u8_Z3yjLp5fA2TU-Dd_FQjyFFHml). 
+- Requirement document is on this [link](https://docs.google.com/document/d/1w4B08IiIjVeXNd545qPjnCte0B4CYUN-fI-x1gxcGdA/edit?usp=sharing).
+- All design models have been presented on this [link](https://app.diagrams.net/#G1lSA8u8_Z3yjLp5fA2TU-Dd_FQjyFFHml). 
 
 ## Meeting Notes
 - [**2020.06.01**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.06.01) (Design, Consistency)
