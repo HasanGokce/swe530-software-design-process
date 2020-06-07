@@ -5,6 +5,7 @@
 - All design models have been presented on this [link](https://app.diagrams.net/#G1lSA8u8_Z3yjLp5fA2TU-Dd_FQjyFFHml). 
 - [Sequence Diagrams](https://app.lucidchart.com/invitations/accept/690d5082-b56e-4b27-bc6a-c7e5869a983d)
 - [BPMN](https://app.lucidchart.com/invitations/accept/6ec6da6a-e4ac-4572-9753-3959108948af)
+- [State](https://app.lucidchart.com/documents/edit/7d8ca04e-b641-4144-9450-3ecdab219c8c/0_0?shared=true)
 
 ## Meeting Notes
 - [**2020.06.01**](https://github.com/hasangokce/swe530-software-design-process/wiki/%E2%9C%8D-Meeting-2020.06.01) (Design, Consistency)
