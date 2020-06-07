@@ -1,4 +1,4 @@
-# SWE530_Software_Design_Process
+# SWE530-software-design-process
 
 ## Document
 - Requirement document is on this [link](https://docs.google.com/document/d/1w4B08IiIjVeXNd545qPjnCte0B4CYUN-fI-x1gxcGdA/edit?usp=sharing).
